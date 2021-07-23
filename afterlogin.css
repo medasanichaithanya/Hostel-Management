@@ -1,0 +1,124 @@
+.logout {
+    overflow: hidden;
+    background-color:black;
+   text-align: center;
+   
+    
+  }
+  #home{
+	
+  width: 50%;
+  height:50%;
+  padding: 50px 5px;
+  text-align: center;
+  margin-top: -40px;
+}
+#wifi 
+{
+    display:none;
+  width: 50%;
+  height:50%;
+  padding: 30px 450px;
+  text-align: center;
+
+  margin-top: 50px;
+}
+#reg,#about
+{
+	display:none;
+  width: 75%;
+  height:180%;
+  padding: 50px 90px;
+  text-align: center;
+  background-color: lightblue;
+  margin-top: 50px;
+}
+#about
+{
+  display:none;
+  width: 50%;
+  height:65%;
+  padding: 50px 90px;
+  text-align: center;
+  background-color: lightblue;
+  margin-top: 50px;
+}
+#proc,#msge
+{
+  display:none;
+  width: 50%;
+  height:50%;
+  padding: 80px 90px;
+  text-align: center;
+  margin-top: -1px;
+}
+#profile
+{
+  display:none;
+  
+}
+
+#my,#acad
+{
+  display:none;
+  width: 50%;
+  height:50%;
+  padding: 100px 330px;
+  margin-top: -1px;
+}
+#msge
+{
+  display:none;
+  width: 50%;
+  height:50%;
+  padding: 100px 330px;
+  margin-top: -1px;
+}
+
+.logout a{
+    text-decoration: none;
+    display :inline-block;
+   
+    font-size: 15px;
+}
+.splitleft
+{
+		height:480px;
+		width:300px;
+		position: absolute;
+		overflow: auto;
+		top:156px;
+		padding-top:10px;
+		left:4;
+		
+		
+}
+.splitright
+{
+		height:500px;
+		width:900px;
+		position: absolute;
+		overflow: auto;
+		top:156px;
+		padding-top:10px;
+		right:0;
+
+		
+}
+.button {
+  background-color: brown;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 30px;
+  cursor: pointer;
+  width : 200px;
+}
+
+a{
+	text-decoration: none;
+}
